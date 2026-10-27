@@ -1,4 +1,4 @@
-# amali# Amalitech GitHub and Scrum Practice
+# Amalitech GitHub and Scrum Practice
 
 ## Introduction
 This repository contains my practice activities as I learn GitHub and the Scrum framework.
