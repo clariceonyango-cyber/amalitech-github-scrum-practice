@@ -24,3 +24,13 @@ This repository contains my practice activities as I learn GitHub and the Scrum 
 
 ## Conclusion
 This repository documents my learning and practice of GitHub and Scrum in preparation for my internship.tech-github-scrum-practice
+
+## Branch Practice
+
+I created a branch named Practice-Scrum to practise working separately from the main branch.
+
+## What I Learned
+- Branches allow changes to be developed independently.
+- Commits record changes to files.
+- Pull requests allow changes to be reviewed before merging.
+- Scrum helps teams work in short, organised Sprints.
