@@ -1,32 +1,19 @@
-# Amalitech GitHub and Scrum Practice
 
-## Introduction
-This repository contains my practice activities as I learn GitHub and the Scrum framework.
+# JavaScript Four-Day Sprint
 
-## GitHub Practice
-- Created a public GitHub repository.
-- Practised creating and editing files.
-- Learned about commits and saving changes.
-- Practised creating branches and pull requests.
-
-## Scrum Learning
-- Scrum is an Agile framework for solving complex problems.
-- A Sprint is a fixed-length period for completing work.
-- The Product Backlog is an ordered list of work needed for the product.
-- The Sprint Backlog contains the work selected for a Sprint and the plan to deliver it.
-- The Daily Scrum is an event for the Developers to inspect progress toward the Sprint Goal and adapt their plan.
+## Project Overview
+This repository contains my JavaScript practical training exercises and final Focus Board project.
 
 ## Learning Objectives
-- Understand the basics of GitHub.
-- Learn how to collaborate using branches and pull requests.
-- Understand the basic Scrum framework.
-- Improve teamwork and communication skills.
+- Practise JavaScript logic and problem-solving.
+- Learn to work with arrays, objects, and functions.
+- Build a Focus Board application.
+- Practise Git and GitHub commits.
 
-## Conclusion
-This repository documents my learning and practice of GitHub and Scrum 
+## Daily Progress
+Daily exercises, project updates, and reflections will be recorded throughout the four-day sprint.
 
 ## Branch Practice
-
 I created a branch named Practice-Scrum to practise working separately from the main branch.
 
 ## What I Learned
@@ -34,3 +21,6 @@ I created a branch named Practice-Scrum to practise working separately from the 
 - Commits record changes to files.
 - Pull requests allow changes to be reviewed before merging.
 - Scrum helps teams work in short, organised Sprints.
+
+## Conclusion
+This repository documents my learning and practice of GitHub and Scrum.
