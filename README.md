@@ -23,7 +23,7 @@ This repository contains my practice activities as I learn GitHub and the Scrum 
 - Improve teamwork and communication skills.
 
 ## Conclusion
-This repository documents my learning and practice of GitHub and Scrum in preparation for my internship.tech-github-scrum-practice
+This repository documents my learning and practice of GitHub and Scrum 
 
 ## Branch Practice
 
