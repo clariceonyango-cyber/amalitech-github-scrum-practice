@@ -84,3 +84,17 @@ This repository also contains my Focus Board application, which allows users to:
 
 This practice improved my understanding of GitHub, Git, Scrum, and JavaScript development. I gained practical experience managing project files, tracking changes, and understanding how Scrum supports teamwork and continuous improvement.
 
+## Daily Progress
+Daily exercises, project updates, and reflections will be recorded throughout the four-day sprint.
+
+## Branch Practice
+I created a branch named Practice-Scrum to practise working separately from the main branch.
+
+## What I Learned
+- Branches allow changes to be developed independently.
+- Commits record changes to files.
+- Pull requests allow changes to be reviewed before merging.
+- Scrum helps teams work in short, organised Sprints.
+
+## Conclusion
+This repository documents my learning and practice of GitHub and Scrum.
