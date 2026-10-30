@@ -98,3 +98,7 @@ I created a branch named Practice-Scrum to practise working separately from the 
 
 ## Conclusion
 This repository documents my learning and practice of GitHub and Scrum.
+## Practice-Scrum Branch Activity
+
+I created the Practice-Scrum branch to practise working independently from the main branch.
+
